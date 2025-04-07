@@ -15,11 +15,10 @@ In this practice project, I developed a simple Role-Playing Game (RPG) to streng
 
 ## Features
 
-- **Character Creation:** Players can create and name their own characters.
-- **Turn-Based Combat:** Implement attack and defense mechanics using JavaScript logic.
-- **Inventory System:** Manage weapons, potions, and other items.
-- **Enemy Encounters:** Randomly generate enemies for players to battle.
-- **Game Progression:** Track player stats, health, and experience points.
+- **Turn-Based Combat:** Implement attack and defense (escaping) mechanics using JavaScript logic.
+- **Inventory System:** Manage weapons, health, gold, and other items.
+- **Enemy Encounters:** Just defeat the dragon.
+- **Game Progression:** Track player stats, health, and gold points.
 
 ## Technologies Used
 
